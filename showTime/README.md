@@ -1,6 +1,6 @@
 <div align="center">
 
-# QUICKSHOW 🎬🍿🎥
+# SHOWTIME 🎬🍿🎥
 
 *Seamless Video Discovery. Effortless Entertainment Experience*
 
